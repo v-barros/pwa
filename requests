@@ -1,0 +1,11 @@
+1 - CONFIGURATION
+https://api.themoviedb.org/3/configuration?api_key=857887736006beb0cbe489b8f4eabefd
+
+2 - MOVIE DETAIL 
+https://api.themoviedb.org/3/movie/1771?api_key=857887736006beb0cbe489b8f4eabefd&language=PT-BR
+
+3 - POSTER 
+https://image.tmdb.org/t/p/w342/vSNxAJTlD0r02V9sPYpOjqDZXUK.jpg
+
+4 - SEARCH MOVIE 
+https://api.themoviedb.org/3/search/movie?api_key=857887736006beb0cbe489b8f4eabefd&language=en-US&query=captain%20america&page=1&include_adult=false
